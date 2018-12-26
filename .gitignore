@@ -1,0 +1,13 @@
+#ingore file
+*.pyc
+
+#ignore file finder
+road-fcn32s/snapshot
+road-fcn32s/snapshot_old/
+road-fcn16s/snapshot/
+
+ilsvrc-nets/
+
+data/road/
+data/road_data/
+data/road-context/
