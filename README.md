@@ -1,3 +1,2 @@
-# fcn-strip 222
 # fcn-strip
-# fcn-strip chengrenqing
+针对路面条修进行语义分割
